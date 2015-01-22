@@ -1,0 +1,17 @@
+<package>
+  <description brief="learning_nxt">
+
+     learning_nxt
+
+  </description>
+  <author>Matt DePorter</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/learning_nxt</url>
+  <depend package="rospy"/>
+  <depend package="nxt_ros"/>
+  <depend package="nxt_msgs"/>
+
+</package>
+
+
